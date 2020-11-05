@@ -1,2 +1,2 @@
-# Arduino-SmartGardening
-Arduino based Smart Gardening
+# Arduino Projects
+All the project based on Arduino
